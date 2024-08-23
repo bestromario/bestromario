@@ -4,8 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestromario&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestromario&hide_progress=true)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
